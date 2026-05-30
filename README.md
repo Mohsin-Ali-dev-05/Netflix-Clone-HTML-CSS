@@ -68,4 +68,4 @@ Aspiring Software Engineer | Java | C++ | Web Development
 
 ## Disclaimer
 
-This project is created solely for educational and portfolio purposes. Netflix trademarks, branding, and media belong to their respective owners.
+This project is a frontend UI recreation created for educational purposes only and is not affiliated with any streaming platform.
